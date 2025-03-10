@@ -1,10 +1,17 @@
 <h1>Fortune Global 500 from 2019-2021 Data Analysis</h1>
 
-**Project Overview:**
+# Project Overview
 
 The **Fortune Global 500**, is an annual ranking of the world’s top 500 companies based on their revenue. The ranking is significantly influenced by a variety of factors, 
 including the global economy, trade policies, mergers and acquisitions, and corporate instability. For this project, I conducted a comprehensive analysis of the **Fortune Global 500 dataset**, 
 focusing on the alterations that occurred between the years **2019 and 2021**.
+
+# Dataset Source
+
+The dataset used for this analysis was sourced from Kaggle. You can access the dataset through the following link:
+
+- [Fortune Global 500 from 2019-2021](https://www.kaggle.com/datasets/prasertk/fortune-global-500-from-20192021)
+ 
 
 The dataset includes key columns such as:
 * **Company name**
@@ -17,7 +24,8 @@ The dataset includes key columns such as:
 * **Assets**
 * **Number of employees**
 * **Headquarters location**
-  
+
+# Observations
 After cleaning and analyzing the dataset, several key observations were made:
 
 1. **Sector Popularity:** The financial sector emerged as one of the most prominent sectors, while the Hotels, Restaurants, and Leisure sector ranked the lowest among other sectors.
